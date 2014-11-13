@@ -1,0 +1,12 @@
+v1.1:
+- Added: Floodfill
+- Added: Palette dialog
+- Added: Canvas mask texture layer (and custom material/shader)
+- Added: Minimum brush size
+- Added: Custom brushes (still needs some work..)
+- Added: Custom brush dialog
+- Some other small fixes..
+
+
+V1.0:
+- initial release
